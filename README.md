@@ -16,7 +16,7 @@ Currently exploring **AI-powered data tools** and **financial analytics automati
 - 🔭 Working on: Automated Financial Reconciliation & AI citizen grievance platform
 - 📍 Based in: Hubballi, Karnataka, India
 - 💼 Open to: Data Analyst / BI Developer / Web Developer roles (remote or hybrid)
-- 📫 Reach me: leelachilaka18@gmail.com
+- 📫 Reach me: chilakasubbareddy@gmail.com
 
 ---
 
@@ -46,7 +46,7 @@ Currently exploring **AI-powered data tools** and **financial analytics automati
 
 | Project | What it does |
 |---|---|
-| [🏛️ Homies](https://github.com/subbareddychilaka/Homies) | AI platform that classifies & routes citizen grievances automatically |
+| [🏛️ AI Based citizen Grievance Redressal System](https://github.com/subbareddychilaka/subba-reddy) | AI platform that classifies & routes citizen grievances automatically |
 | [🛍️ Customer Behavior Analysis](https://github.com/subbareddychilaka/customer-behavior-data-analysis) | Retail analytics — Python cleaning → SQL queries → Power BI dashboard |
 | [💰 Financial Reconciliation](https://github.com/subbareddychilaka/Automated-Financial-Reconciliation-Reporting-System) | Automates multi-source financial reconciliation & discrepancy detection |
 | [📊 Finance KPI Dashboard](https://github.com/subbareddychilaka/Finance-KPI-Risk-Performance-Dashboard) | Interactive BI dashboard tracking KPIs and risk indicators |
